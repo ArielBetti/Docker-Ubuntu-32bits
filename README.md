@@ -7,7 +7,7 @@ Build do docker image para ubuntu i386.
 
    <h2>2º Rode o script de instalação:</h2>
 	
-Entre no diretorio:`cd Docker-Ubuntu-32bits`
+Entre no diretório:`cd Docker-Ubuntu-32bits`
 
   Execute o script:`sudo bash build-image.sh`
   
