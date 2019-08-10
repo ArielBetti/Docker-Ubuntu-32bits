@@ -1,7 +1,7 @@
 <h1>Docker no Linux Ubuntu i386</h1>
 
 Build do docker image para ubuntu i386.
-   <h2>1º Clone o repositorio:</h2>
+   <h2>1º Clone o repositório:</h2>
 
   `git clone https://github.com/ArielBetti/Docker-Ubuntu-32bits`
 
@@ -19,7 +19,7 @@ Entre no diretorio:`cd Docker-Ubuntu-32bits`
   
   <h2>Veja também</h2>
   
-Repositorio original:
+Repositório original:
 
  - https://gitlab.com/docker-32bit/ubuntu
   
